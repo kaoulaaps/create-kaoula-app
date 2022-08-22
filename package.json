@@ -1,7 +1,7 @@
 {
   "name": "create-kaoula-app",
   "type": "module",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "🚀 Create Next Generation School Program App with Kaoula",
   "main": "src/index.js",
   "bin": "./src/index.js",
